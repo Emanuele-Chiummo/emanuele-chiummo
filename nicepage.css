@@ -36745,17 +36745,22 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 @media (max-width: 575px) {
   .u-header .u-sheet-1 {
-    min-height: 129px;
+    min-height: 76px;
   }
 
   .u-header .u-image-1 {
-    margin-top: 26px;
+    margin-top: 11px;
   }
 
   .u-header .u-custom-html-1 {
-    margin-top: 23px;
+    margin-top: 0;
     margin-left: 0;
     margin-right: 0;
+  }
+
+  .u-header .u-menu-1 {
+    margin-top: -43px;
+    margin-bottom: 22px;
   }
 }
  .u-footer {
