@@ -36723,19 +36723,27 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 }
 @media (max-width: 767px) {
+  .u-header .u-sheet-1 {
+    min-height: 178px;
+  }
+
   .u-header .u-image-1 {
     margin-top: 62px;
   }
 
   .u-header .u-menu-1 {
-    margin-top: 20px;
-    margin-right: auto;
-    margin-left: 0;
+    margin-top: -32px;
+    margin-bottom: 60px;
   }
 }
 @media (max-width: 575px) {
   .u-header .u-image-1 {
     margin-left: auto;
+  }
+
+  .u-header .u-menu-1 {
+    margin-top: 21px;
+    margin-bottom: 9px;
   }
 }
  .u-footer {
