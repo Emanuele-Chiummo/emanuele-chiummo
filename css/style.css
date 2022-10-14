@@ -812,7 +812,7 @@ h3.my-profession
     }
     .home .home-img
     {
-        display: none;
+        display: none; 
     }
 }
 @media (max-width:767px)
