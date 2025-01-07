@@ -1,5 +1,5 @@
 # 💫 About Me:
-💼 l'm currently working on Innovaway s.p.a<br>💻 I'm currently hold the role of ServiceNow developer<br>🌱 l'm currently learning Computer science
+💼 l'm currently working on Deloitte<br>💻 I'm currently hold the role of ServiceNow Senior Consultant<br>🌱 l'm currently learning Computer science
 
 
 ## 🌐 Socials:
